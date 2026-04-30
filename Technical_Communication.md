@@ -6,7 +6,7 @@ There is an increase in user traffic, and the project is experiencing performanc
 
 ![Scaling Comparison Diagram](https://www.cloudkeeper.com/cms-assets/s3fs-public/inline-images/table-02.png)
 
-*Source: https://www.cloudkeeper.com/cms-assets/s3fs-public/inline-images/table-02.png*
+Source: https://www.cloudkeeper.com/cms-assets/s3fs-public/inline-images/table-02.png
 
 ### Vertical Scaling
 
