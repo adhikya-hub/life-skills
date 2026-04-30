@@ -4,6 +4,10 @@ There is an increase in user traffic, and the project is experiencing performanc
 
 ## Scaling Techniques
 
+![Scaling Comparison Diagram](https://www.cloudkeeper.com/cms-assets/s3fs-public/inline-images/table-02.png)
+
+*Source: https://www.cloudkeeper.com/cms-assets/s3fs-public/inline-images/table-02.png*
+
 ### Vertical Scaling
 
 Vertical Scaling means increasing the capacity of the existing server by adding more CPU, RAM, or storage. It is easy to implement since no architectural changes are required, but it still has the limitation of a single point of failure.
